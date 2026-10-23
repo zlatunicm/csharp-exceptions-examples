@@ -31,10 +31,28 @@ dotnet run 2      # just one (e.g. filters)
 - [Exceptions (C# guide)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
 - [Best practices for exceptions](https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
 
+## The series
+
+← Previous: [06 Types & memory](https://github.com/zlatunicm/csharp-types-memory-examples) · Next: [08 Modern C# 8–12](https://github.com/zlatunicm/csharp-modern-examples) →
+
+| Part | Topic |
+|---|---|
+| 01 | [Collections](https://github.com/zlatunicm/csharp-collections-examples) |
+| 02 | [LINQ](https://github.com/zlatunicm/csharp-linq-examples) |
+| 03 | [Delegates & events](https://github.com/zlatunicm/csharp-delegates-events-examples) |
+| 04 | [Async/await](https://github.com/zlatunicm/csharp-async-examples) |
+| 05 | [Generics](https://github.com/zlatunicm/csharp-generics-examples) |
+| 06 | [Types & memory](https://github.com/zlatunicm/csharp-types-memory-examples) |
+| 07 | **Exceptions** (this repo) |
+| 08 | [Modern C# 8–12](https://github.com/zlatunicm/csharp-modern-examples) |
+| 09 | [Strings & text](https://github.com/zlatunicm/csharp-strings-examples) |
+| 10 | [Files & JSON](https://github.com/zlatunicm/csharp-files-json-examples) |
+| 11 | [MiniShop microservices (finale)](https://github.com/zlatunicm/minishop-microservices) |
+
 ## Author
 
 **Matej Zlatunić**
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT).
+Released under the [MIT License](LICENSE). Feel free to use it for learning.
